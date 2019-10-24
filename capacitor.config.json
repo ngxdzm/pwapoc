@@ -1,0 +1,7 @@
+{
+  "appId": "sh.surge.yespwa",
+  "appName": "yespwa",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}

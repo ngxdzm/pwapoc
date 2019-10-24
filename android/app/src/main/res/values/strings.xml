@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">yespwa</string>
+    <string name="title_activity_main">yespwa</string>
+    <string name="package_name">yespwa.surge.sh</string>
+    <string name="fileprovider_authority">yespwa.surge.sh.fileprovider</string>
+    <string name="custom_url_scheme">yespwa.surge.sh</string>
+</resources>
